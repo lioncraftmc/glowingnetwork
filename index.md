@@ -1,6 +1,6 @@
 ## Welcome to Glowing Network Minecraft server website!
 
-You can use the [editor on GitHub](https://github.com/lioncraftmc/glowingnetwork/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Glowing Network is a Minecraft server network. Our goal is to make it different from other servers and add new great things to it!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
